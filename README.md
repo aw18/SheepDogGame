@@ -29,3 +29,7 @@ Demo: https://aw18.github.io/SheepDogGame/
 3. Cohesion - steer to move toward the average position of local flockmates
 
 - This youtube video describes this behaviour well: https://www.youtube.com/watch?v=QbUPfMXXQIY
+
+### References:
+
+https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6
