@@ -15,7 +15,7 @@ Demo: https://aw18.github.io/SheepDogGame/
 ## Releases
 
 Release Version | Updates
-1.0 | Implement Boids for sheep movement
+1.0 (Work in progress) | Implement Boids for sheep movement
 
 ## Notes
 
