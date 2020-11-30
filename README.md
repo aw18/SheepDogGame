@@ -13,7 +13,7 @@ Inspired by an aerial view of a snippet of how sheepdogs manage to get a herd of
 ## Releases
 
 Release Version | Updates
-1.0 | \* Implement Boids for sheep movement
+1.0 | - Implement Boids for sheep movement
 
 ## Notes
 
